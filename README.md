@@ -15,7 +15,7 @@ This program encrypts and decrypts messages using the **Caesar Cipher** algorith
 - Understanding of user-driven logic
 
 ## ▶️ Demo
-I’ve uploaded a short video demonstrating the project in action. You can also check it out on my [LinkedIn Post]([INSERT_LINK_HERE_AFTER_POSTING](https://www.linkedin.com/posts/nafeesathmisbha_skillcrafttechnology-cybersecurity-python-activity-7336339984485883904-EMS5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbjC8BmVhPAq9GjW-PCl3beMcHIe2Nd-w)).
+I’ve uploaded a short video demonstrating the project in action. You can also check it out on my [LinkedIn Post][(https://www.linkedin.com/posts/nafeesathmisbha_skillcrafttechnology-cybersecurity-python-activity-7336339984485883904-EMS5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEbjC8BmVhPAq9GjW-PCl3beMcHIe2Nd-w)]
 
 ## 📁 Files Included
 - `caesar_cipher.py` – Console version of the Caesar Cipher
